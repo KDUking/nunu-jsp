@@ -19,7 +19,6 @@
             background-position: center;
             background-repeat: no-repeat;
             height: 100vh;
-            height: 120vh;
         }
         
         .center-content {
