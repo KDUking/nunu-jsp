@@ -85,7 +85,7 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 order-lg-0">
                 <h1 class="mg-md text-center">
-                    <strong>NUNU Contents</strong>
+                    <strong>Nunu Contents</strong>
                 </h1>
                 <div class="divider-h">
                     <span class="divider"></span>
