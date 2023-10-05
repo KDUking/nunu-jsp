@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="./css/style.css">
     <link rel="stylesheet" type="text/css" href="./css/animate.min.css">
     <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
-    <title>Nunu에 온 걸 환영합니다.</title>
+    <title>Nunu에 오신 걸 환영합니다.</title>
     <style>
         #bloc-1 {
             background-image: url('./img/citysky.jpg');
