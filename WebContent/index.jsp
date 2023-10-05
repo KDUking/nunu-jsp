@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="./css/style.css">
     <link rel="stylesheet" type="text/css" href="./css/animate.min.css">
     <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
-    <title>Nunu에 온 걸 환영합니다</title>
+    <title>Nunu에 온 걸 환영합니다.</title>
     <style>
         #bloc-1 {
             background-image: url('./img/citysky.jpg');
@@ -85,7 +85,7 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 order-lg-0">
                 <h1 class="mg-md text-center">
-                    <strong>nunu의 컨텐츠.</strong>
+                    <strong>nunu 컨텐츠</strong>
                 </h1>
                 <div class="divider-h">
                     <span class="divider"></span>
