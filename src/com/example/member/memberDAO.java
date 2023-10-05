@@ -11,7 +11,7 @@ public class memberDAO {
    ResultSet rs = null;
    
    private final String driver = "com.mysql.cj.jdbc.Driver";
-   private static final String url = "jdbc:mysql://10.1.192.10:3306/nunu";
+   private static final String url = "jdbc:mysql://10.1.192.12:3306/nunu";
     private static final String user = "care";
     private static final String password = "!aA12345678";
     
